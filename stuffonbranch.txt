@@ -1,6 +1,3 @@
 "# stuff on branch" 
-<<<<<<< Updated upstream
 changes from remote server
-=======
 changes on local
->>>>>>> Stashed changes
